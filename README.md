@@ -1,6 +1,8 @@
 # ED2-ProjetoFinal
 ## Trabalho Final - Acesso a Dados com listas de Dispersão 
-######## Professor: Timoteo Lange
+#### Professor: Timoteo Lange
+#### Estrutura de Dados II
+<br>
 
 1. Baixar o arquivo XLS no link abaixo e converter para CSV (Guia "Municípios") - Limpar o arquivo. 
 https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=resultados
